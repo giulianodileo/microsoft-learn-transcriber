@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+
+# OS
+.DS_Store
+
+# Generated output
+downloaded_HTMLs/
+clean_transcripts/
+
+# Jupyter
+.ipynb_checkpoints/
